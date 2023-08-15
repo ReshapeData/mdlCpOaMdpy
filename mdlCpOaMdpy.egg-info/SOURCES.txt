@@ -8,5 +8,3 @@ mdlCpOaMdpy.egg-info/SOURCES.txt
 mdlCpOaMdpy.egg-info/dependency_links.txt
 mdlCpOaMdpy.egg-info/requires.txt
 mdlCpOaMdpy.egg-info/top_level.txt
-tests/testCustomerByDate_sync.py
-tests/testSupplierByDate_sync.py
